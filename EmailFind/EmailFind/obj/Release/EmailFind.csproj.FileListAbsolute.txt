@@ -1,0 +1,7 @@
+C:\Users\Russell\source\repos\EmailFind\EmailFind\bin\Release\EmailFind.exe.config
+C:\Users\Russell\source\repos\EmailFind\EmailFind\bin\Release\EmailFind.exe
+C:\Users\Russell\source\repos\EmailFind\EmailFind\bin\Release\EmailFind.pdb
+C:\Users\Russell\source\repos\EmailFind\EmailFind\obj\Release\EmailFind.csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\EmailFind\EmailFind\obj\Release\EmailFind.csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\EmailFind\EmailFind\obj\Release\EmailFind.exe
+C:\Users\Russell\source\repos\EmailFind\EmailFind\obj\Release\EmailFind.pdb

@@ -1,0 +1,11 @@
+C:\Users\Russell\source\repos\ColorTest\ColorTest\bin\Debug\ColorTest.exe.config
+C:\Users\Russell\source\repos\ColorTest\ColorTest\bin\Debug\ColorTest.exe
+C:\Users\Russell\source\repos\ColorTest\ColorTest\bin\Debug\ColorTest.pdb
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\ColorTest.csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\ColorTest.Properties.Resources.resources
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\ColorTest.csproj.GenerateResource.cache
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\ColorTest.csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\ColorTest.exe
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\ColorTest.pdb
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\ColorTest.Form1.resources
+C:\Users\Russell\source\repos\ColorTest\ColorTest\obj\Debug\UsingColors.ShowColors.resources
