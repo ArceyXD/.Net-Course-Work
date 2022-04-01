@@ -1,0 +1,10 @@
+C:\Users\Russell\source\repos\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Russell\source\repos\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\Russell\source\repos\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Russell\source\repos\Lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\Russell\source\repos\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\Russell\source\repos\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\Russell\source\repos\Lab11\Lab11\obj\Debug\Lab11.pdb
+C:\Users\Russell\source\repos\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
